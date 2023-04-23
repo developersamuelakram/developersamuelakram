@@ -11,15 +11,16 @@ I'm Samuel Akram, a self taught Junior Mobile Developer from Karachi/Pakistan. I
 </div>
 
 ### Skills
+
 <p align="start">
   <a href="#">
-    <img align="center" alt="Kotlin" width="30px" src="images/kotlin.svg" style="margin-right: 25px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+    <img align="center" alt="Kotlin" width="30px" src="images/kotlin.svg" style="margin-right: 35px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
   </a>
   <a href="#">
-    <img align="center" alt="Java" width="30px" src="images/java.svg" style="margin-right: 25px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+    <img align="center" alt="Java" width="30px" src="images/java.svg" style="margin-right: 35px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
   </a>
   <a href="#">
-    <img align="center" alt="Flutter" width="30px" src="images/flutter.svg" style="margin-right: 25px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+    <img align="center" alt="Flutter" width="30px" src="images/flutter.svg" style="margin-right: 35px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
   </a>
 </p>
 
