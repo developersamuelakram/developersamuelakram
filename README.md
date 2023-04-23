@@ -1,6 +1,6 @@
 
 <div style="text-align:center;">
-  <img src="images/profile.jpg" width="1100px" height="350px"/>
+  <img src="images/profile.jpg" width="900px" height="250px"/>
 </div>
 
 ### Hi there 👋
