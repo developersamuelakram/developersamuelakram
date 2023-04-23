@@ -1,28 +1,31 @@
+
+<div style="text-align:center;">
+  <img src="images/profile.jpg" width="1100px" height="350px"/>
+</div>
+
 ### Hi there 👋
 
-I'm Samuel Akram, a self taught Junior Mobile Developer from Karachi/Pakistan. I have been working in the office as Program Coordinator for the past decade, but my passion is programming and developing applications so therefore I am working towards switching careers.
+I'm Samuel Akram, a self taught Junior Mobile Developer from Karachi/Pakistan. I have been working in the office as Program Coordinator for the past decade, but my passion is programming and developing applications so therefore I am working towards switching careers. 
 
 - 🌱 I’m currently learning Kotlin, Dart, Java.
 - 💬 I can develop Mid level applications & implement Android's recent technologies.
 - 📫 How to reach me: dev.samakram@gmail.com
 
-<div style="text-align:center;">
-  <img src="images/profile.jpg" style="max-width:80%;" />
-</div>
+
 
 ### Skills
-
 <p align="start">
   <a href="#">
-    <img align="center" alt="Kotlin" width="30px" src="images/kotlin.svg" style="margin-right: 35px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+    <img align="center" alt="Kotlin" width="30px" src="images/kotlin.svg" style="margin-right: 25px; vertical-align: middle;" />
   </a>
   <a href="#">
-    <img align="center" alt="Java" width="30px" src="images/java.svg" style="margin-right: 35px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+    <img align="center" alt="Java" width="30px" src="images/java.svg" style="margin-right: 25px; vertical-align: middle;" />
   </a>
   <a href="#">
-    <img align="center" alt="Flutter" width="30px" src="images/flutter.svg" style="margin-right: 35px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+    <img align="center" alt="Flutter" width="30px" src="images/flutter.svg" style="margin-right: 25px; vertical-align: middle;" />
   </a>
 </p>
+
 
 
 <br />
