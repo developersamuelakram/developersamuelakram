@@ -7,14 +7,21 @@ I'm Samuel Akram, a self taught Junior Mobile Developer from Karachi/Pakistan. I
 - 📫 How to reach me: dev.samakram@gmail.com
 
 <div style="text-align:center;">
-  <img src="images/20210101_16195.jpg" style="max-width:100%;" />
+  <img src="images/profile.jpg" style="max-width:100%;" />
 </div>
 
 ### Skills
-
-[<img align="left" alt="Kotlin" width="30px" src="images/kotlin.svg" />][Kotlin]
-[<img align="left" alt="Java" width="30px" src="images/java.svg" />][Java]
-[<img align="left" alt="Flutter" width="30px" src="images/flutter.svg" />][Flutter]
+<p align="center">
+  <a href="#">
+    <img align="center" alt="Kotlin" width="30px" src="images/kotlin.svg" style="margin-right: 20px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+  </a>
+  <a href="#">
+    <img align="center" alt="Java" width="30px" src="images/java.svg" style="margin-right: 20px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+  </a>
+  <a href="#">
+    <img align="center" alt="Flutter" width="30px" src="images/flutter.svg" style="margin-right: 20px; vertical-align: middle; border: 1px solid gray; padding: 5px; border-radius: 5px;" />
+  </a>
+</p>
 
 
 <br />
@@ -26,19 +33,18 @@ I'm Samuel Akram, a self taught Junior Mobile Developer from Karachi/Pakistan. I
 ### Connect with me
 <p align="start">
   <a href="https://www.youtube.com/@developersamuel/videos">
-    <img align="center" alt="Your Website" width="30px" src="images/youtube.png" />
+    <img align="center" alt="Your Website" width="30px" src="images/youtube.png" style="margin-right: 10px; vertical-align: middle;" />
   </a>
   <a href="https://www.linkedin.com/in/samuelakram">
-    <img align="center" alt="LinkedIn" width="30px" src="images/linkedin.png" />
+    <img align="center" alt="LinkedIn" width="30px" src="images/linkedin.png" style="margin-right: 10px; vertical-align: middle;" />
   </a>
   <a href="https://twitter.com/akramsamuels">
-    <img align="center" alt="Twitter" width="30px" src="images/twitter.png" />
+    <img align="center" alt="Twitter" width="30px" src="images/twitter.png" style="margin-right: 10px; vertical-align: middle;" />
   </a>
   <a href="https://www.instagram.com/samuelcodes/">
-    <img align="center" alt="Instagram" width="30px" src="images/instagram.png" />
+    <img align="center" alt="Instagram" width="30px" src="images/instagram.png" style="margin-right: 10px; vertical-align: middle;" />
   </a>
 </p>
-
 
 
 <br />
