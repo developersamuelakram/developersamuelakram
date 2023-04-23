@@ -24,18 +24,18 @@ I'm Samuel Akram, a self taught Junior Mobile Developer from Karachi/Pakistan. I
 - [Chat Messenger - Kotlin](https://github.com/developersamuelakram/ChatMessenger)
 
 ### Connect with me
-<p align="center">
+<p align="start">
   <a href="https://www.youtube.com/@developersamuel/videos">
-    <img align="center" alt="Your Website" width="22px" src="images/youtube.png" />
+    <img align="center" alt="Your Website" width="30px" src="images/youtube.png" />
   </a>
   <a href="https://www.linkedin.com/in/samuelakram">
-    <img align="center" alt="LinkedIn" width="22px" src="images/linkedin.png" />
+    <img align="center" alt="LinkedIn" width="30px" src="images/linkedin.png" />
   </a>
   <a href="https://twitter.com/akramsamuels">
-    <img align="center" alt="Twitter" width="22px" src="images/twitter.png" />
+    <img align="center" alt="Twitter" width="30px" src="images/twitter.png" />
   </a>
   <a href="https://www.instagram.com/samuelcodes/">
-    <img align="center" alt="Instagram" width="22px" src="images/instagram.png" />
+    <img align="center" alt="Instagram" width="30px" src="images/instagram.png" />
   </a>
 </p>
 
