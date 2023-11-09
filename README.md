@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/akramsamuels" target="blank"><img src="https://img.shields.io/twitter/follow/akramsamuels?logo=twitter&style=for-the-badge" alt="akramsamuels" /></a> </p>
 
-- 🔭 Recently Developed .[https://github.com/developersamuelakram/WeatherApp_Kotlin)
+- 🔭 Recently Developed https://github.com/developersamuelakram/WeatherApp_Kotlin
 
 - 🌱 I’m currently learning **Advanced Kotlin**
 
